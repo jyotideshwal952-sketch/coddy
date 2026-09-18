@@ -1,0 +1,6 @@
+{
+  "name": "UJALA",
+  "description": "Cartoon Coding Adventure Kingdom with interactive game worlds, original companion characters, AI cartoon voice modulation, RPG bug battles, detective crime scene debugging, and verified certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
